@@ -1,0 +1,6 @@
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Passaggio_Valori_Metodi\bin\Debug\Passaggio_Valori_Metodi.exe.config
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Passaggio_Valori_Metodi\bin\Debug\Passaggio_Valori_Metodi.exe
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Passaggio_Valori_Metodi\bin\Debug\Passaggio_Valori_Metodi.pdb
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Passaggio_Valori_Metodi\obj\Debug\Passaggio_Valori_Metodi.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Passaggio_Valori_Metodi\obj\Debug\Passaggio_Valori_Metodi.exe
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Passaggio_Valori_Metodi\obj\Debug\Passaggio_Valori_Metodi.pdb

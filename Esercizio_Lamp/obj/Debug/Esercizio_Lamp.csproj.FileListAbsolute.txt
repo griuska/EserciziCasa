@@ -1,0 +1,9 @@
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizio_Lamp\bin\Debug\Esercizio_Lamp.exe.config
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizio_Lamp\bin\Debug\Esercizio_Lamp.exe
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizio_Lamp\bin\Debug\Esercizio_Lamp.pdb
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizio_Lamp\obj\Debug\Esercizio_Lamp.csprojResolveAssemblyReference.cache
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizio_Lamp\obj\Debug\Esercizio_Lamp.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizio_Lamp\obj\Debug\Esercizio_Lamp.exe
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizio_Lamp\obj\Debug\Esercizio_Lamp.pdb
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizio_Lamp\bin\Debug\Esercizio_Lamp.exe.CodeAnalysisLog.xml
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizio_Lamp\bin\Debug\Esercizio_Lamp.exe.lastcodeanalysissucceeded

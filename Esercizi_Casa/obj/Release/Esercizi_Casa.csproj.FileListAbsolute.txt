@@ -1,0 +1,6 @@
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizi_Casa\bin\Release\Esercizi_Casa.exe.config
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizi_Casa\bin\Release\Esercizi_Casa.exe
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizi_Casa\bin\Release\Esercizi_Casa.pdb
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizi_Casa\obj\Release\Esercizi_Casa.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizi_Casa\obj\Release\Esercizi_Casa.exe
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizi_Casa\obj\Release\Esercizi_Casa.pdb

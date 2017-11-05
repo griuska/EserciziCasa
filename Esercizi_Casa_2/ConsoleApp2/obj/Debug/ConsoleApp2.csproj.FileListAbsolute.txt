@@ -1,0 +1,7 @@
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizi_Casa_2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizi_Casa_2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizi_Casa_2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizi_Casa_2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizi_Casa_2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizi_Casa_2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizi_Casa_2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache

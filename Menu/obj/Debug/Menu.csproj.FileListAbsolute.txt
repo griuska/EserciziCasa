@@ -1,0 +1,7 @@
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Menu\bin\Debug\Menu.exe.config
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Menu\bin\Debug\Menu.exe
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Menu\bin\Debug\Menu.pdb
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Menu\obj\Debug\Menu.exe
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Menu\obj\Debug\Menu.pdb
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache

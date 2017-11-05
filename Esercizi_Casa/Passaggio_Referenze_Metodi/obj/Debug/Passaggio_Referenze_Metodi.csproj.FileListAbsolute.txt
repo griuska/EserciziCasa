@@ -1,0 +1,2 @@
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizi_Casa\Passaggio_Referenze_Metodi\obj\Debug\Passaggio_Referenze_Metodi.csprojResolveAssemblyReference.cache
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizi_Casa\Passaggio_Referenze_Metodi\obj\Debug\Passaggio_Referenze_Metodi.csproj.CoreCompileInputs.cache

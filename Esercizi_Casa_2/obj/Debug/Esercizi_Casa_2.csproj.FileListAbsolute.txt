@@ -1,0 +1,7 @@
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizi_Casa_2\bin\Debug\Esercizi_Casa_2.exe.config
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizi_Casa_2\bin\Debug\Esercizi_Casa_2.exe
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizi_Casa_2\bin\Debug\Esercizi_Casa_2.pdb
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizi_Casa_2\obj\Debug\Esercizi_Casa_2.csprojResolveAssemblyReference.cache
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizi_Casa_2\obj\Debug\Esercizi_Casa_2.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizi_Casa_2\obj\Debug\Esercizi_Casa_2.exe
+C:\Users\Marco\Source\Repos\Esercizi_Casa\Esercizi_Casa_2\obj\Debug\Esercizi_Casa_2.pdb
